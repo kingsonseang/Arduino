@@ -1,7 +1,3 @@
-//The DIY Life
-//Michael Klements
-//27 January 2020
-
 #include <SPI.h> 
 #include <RFID.h>
 #include <Servo.h> 
